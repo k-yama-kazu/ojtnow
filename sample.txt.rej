@@ -1,0 +1,13 @@
+diff a/sample.txt b/sample.txt	(rejected hunks)
+@@ -2,5 +3,9 @@
++<<<<<<< HEAD
+ ���Ăł�킩��Git�R�}���h
+ add �ύX��C���f�b�N�X�ɓo�^���Ă݂悤
+ commit �C���f�b�N�X�̏�Ԃ�L�^����
+ pull �����[�g���|�W�g���̓�e��擾����
+-add nanikawo
+\ No newline at end of file
++add nanikawo
++=======
++aaaaaaaaatest
++>>>>>>> origin/subranch
